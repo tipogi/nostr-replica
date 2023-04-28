@@ -1,0 +1,1 @@
+pub const BACKUP_FILE: &str = ".backup.json";
